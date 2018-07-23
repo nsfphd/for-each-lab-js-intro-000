@@ -7,5 +7,4 @@ function iterate(callback){
   arr=[1,2,3,4,5,6]
   iterativeLog(arr)
   return arr
-
 }
